@@ -10,6 +10,8 @@ apt upgrade -y
 
 pkg install git -y
 
+termux-setup-storage
+
 pkg install wget -y
 
 git clone https://github.com/cyber-devil-7/Kali-in-termux.git
@@ -20,6 +22,11 @@ chmod +x *
 
 bash kali.sh
 ```
+
+*termux-setup-storage*
+DOESNOT SAPPORT THAN GO TO TERMUX SETTING AND ENABELE TERMUX STORAGE PERMSSION,,,,,
+
+_𝐈𝐅 𝐀𝐍𝐘 𝐊𝐈𝐍𝐃 𝐎𝐅 𝐄𝐑𝐑𝐎𝐑 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐄𝐋𝐋 𝐌𝐄_
 
 
 # 𝐂𝐘𝐁𝐄𝐑 𝐃𝐄𝐕𝐈𝐋 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊
