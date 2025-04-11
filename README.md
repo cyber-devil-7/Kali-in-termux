@@ -10,6 +10,8 @@ apt upgrade -y
 
 pkg install git -y
 
+pkg install wget -y
+
 git clone https://github.com/cyber-devil-7/Kali-in-termux.git
 
 cd Kali-in-termux
